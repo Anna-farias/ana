@@ -23,5 +23,5 @@ text-transform: uppercase;
 .nav_item:hover {
     cursor: pointer;
     background-color: black;
-    color: black;
+    color: red;
 }
