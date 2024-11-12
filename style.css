@@ -22,6 +22,6 @@ text-transform: uppercase;
 
 .nav_item:hover {
     cursor: pointer;
-    background-color: aliceblue;
+    background-color: black;
     color: black;
 }
